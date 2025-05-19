@@ -1,0 +1,94 @@
+body {
+    font-family: sans-serif;
+    margin: 7px;
+}
+
+header{
+    background-color: lightskyblue;
+    border-radius: 15px;
+}
+
+header img{
+    width: 80px;
+    height: 70px;
+    margin-left: 15px;
+}
+header a{
+    color: rgb(51, 106, 124);
+    text-decoration: none;
+}
+
+h1{
+    background-color: lightcyan;
+    border-radius: 15px;
+    text-align: center;
+    color: rgb(13, 127, 202);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+   color: orange; 
+}
+
+footer p{
+    background-color: lightgreen;
+    border-radius: 5px;
+    border: 2px solid greenyellow;
+}
+
+nav{
+    border: 2px solid orange;
+    border-radius: 5px;
+    background-color: yellow;
+}
+
+nav a{
+    text-align: center;
+    text-decoration: none;
+    padding: 5px;
+    margin-left: 50px;
+}
+
+select{
+    border-radius: 5px;
+    margin-left: 43%;
+    padding: 10px;
+}
+
+.price{
+    text-align: center;
+    display: flex;
+}
+
+.ABC{
+    background-color: #c4e08f;
+    border-radius: 17px;
+    border: 3px solid lightgreen;
+    padding: 13px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.Gift{
+    border: 2px solid lightblue;
+    border-radius: 17px;
+}
+
+#discount{
+    color: coral;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#delivery{
+    color: #9bda27;
+}
+.about_us{
+    border: 3px solid blue;
+    padding: 7px;
+}
+
+
+
+
